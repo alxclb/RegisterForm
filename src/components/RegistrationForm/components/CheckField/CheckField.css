@@ -1,0 +1,13 @@
+.form__check-field{
+    margin-bottom: 24px;
+}
+.form__check-field input{
+    width: 18px;
+    height: 18px;
+    border: 1px solid #202624;
+    cursor: pointer;
+}
+.form__check-field label {
+    margin-left: 8px;
+    line-height: 22px;
+}

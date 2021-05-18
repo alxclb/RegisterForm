@@ -1,0 +1,18 @@
+.form__button{
+    margin-bottom: 56px;
+}
+.form__button button{
+    border: none;
+    max-width: 198px;
+    width: 100%;
+    height: 48px;
+    background-color: #D2E143;
+    font-size: 13px;
+    line-height: 18px;
+    font-family: 'nationalMedium';
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.form__button button:hover{
+    background-color: #e5f559;
+}
